@@ -98,3 +98,4 @@
 - ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-07%20204053.png)
 - ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-07%20205607.png)
 
+---
