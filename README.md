@@ -89,13 +89,21 @@
 
 # **Решение**
 
+- Статаус microk8s:
+
 - ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-07%20203240.png)
 
-Настройки ~/.kube/config
-- ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-07%20203022.png)
+Проброс потра: 
 
-- ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-07%20204029.png)
-- ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-07%20204053.png)
-- ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-07%20205607.png)
+- ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-09%20152233.png)
 
----
+- Вывод команды kubectl get nodes:
+
+- ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-09%20151248.png)
+
+- Dashboard: 
+
+- ![scrin](https://github.com/Evgenii-379/1.1-1.1.md/blob/main/Снимок%20экрана%202025-03-09%20151627.png)
+
+
+
